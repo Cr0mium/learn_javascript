@@ -1,0 +1,8 @@
+.rec{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height: 300px;
+    width:80%;
+    background-color:cyan;
+}
